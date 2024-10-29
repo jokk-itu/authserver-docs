@@ -1,2 +1,2 @@
 # authserver-docs
-Documentation of Authserver
+Documentation of AuthServer
