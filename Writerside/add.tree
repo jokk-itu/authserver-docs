@@ -8,5 +8,7 @@
 
     <toc-element topic="Introduction.md"/>
     <toc-element topic="Architecture.md"/>
-    <toc-element topic="Client-Authentication.md"/>
+    <toc-element topic="Setup-AuthServer.md"/>
+    <toc-element topic="Client-Authentication.md">
+    </toc-element>
 </instance-profile>
